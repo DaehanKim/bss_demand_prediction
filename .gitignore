@@ -1,3 +1,5 @@
 dataset/**
 refined_data/**
 __pycache__/**
+*.swp
+.ipynb_checkpoints/**
